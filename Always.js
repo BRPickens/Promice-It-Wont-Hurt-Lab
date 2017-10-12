@@ -6,5 +6,5 @@ promise
     .then(function(fulfill){
         console.log(fulfill);
     })
-    console.log("MAIN PROGRAM")promise-it-wont-hurt
+    console.log("MAIN PROGRAM")
     
